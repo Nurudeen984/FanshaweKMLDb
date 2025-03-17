@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Letter N Polygon</name>
+    <name>Letter N</name>
     <Style id="Nstyle">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>Blue</color> 
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>7fff0000</color> <!-- Transparent Red -->
+        <color>Orange</color> 
       </PolyStyle>
     </Style>
     <Placemark>
