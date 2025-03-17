@@ -8,19 +8,26 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>Orange</color> 
+        <color>7fff8c00</color>
       </PolyStyle>
     </Style>
+    
     <Placemark>
       <name>N Shape</name>
       <styleUrl>#Nstyle</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates> -81.211786,42.986556,0 -81.211786,42.987456,0  -81.211686,42.987456,0  -81.211686,42.986856,0  -81.211586,42.987456,0 -81.211586,42.986556,0 
-              -81.211686,42.986556,0  
-              -81.211686,42.987156,0  
-              -81.211786,42.986556,0  
+            <coordinates>
+              -81.2118,42.9865,0 
+              -81.2118,42.9875,0  
+              -81.2117,42.9875,0  
+              -81.2117,42.9869,0  
+              -81.2116,42.9875,0 
+              -81.2116,42.9865,0 
+              -81.2117,42.9865,0  
+              -81.2117,42.9871,0  
+              -81.2118,42.9865,0  
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
